@@ -1,7 +1,11 @@
+# AWS Certified Solutions Architect – Professional (SAP-C02) Study Repository
+
 이 저장소는 AWS Certified Solutions Architect – Professional (SAP-C02) 시험 대비를 위한 이론 및 실습 자료를 제공합니다.  
 각 챕터별로 이론 정리(`theory.md`)와 실습 가이드(`practice.md`)가 포함되어 있습니다.
 
-## 목차(Chapters)
+---
+
+## 📚 목차(Chapters)
 
 - 01_Authentication_and_Access_Control
 - 02_Designing_Networks_for_Complex_Organizations
@@ -29,13 +33,17 @@
 - `theory.md`: 이론 요약 및 핵심 개념
 - `practice.md`: 실습 가이드 및 실습 예제
 
-## 활용 방법
+---
+
+## 📝 활용 방법
 
 1. 각 챕터의 `theory.md`로 이론을 학습하세요.
 2. `practice.md`를 따라 실습을 진행하세요.
 3. 궁금한 점이나 개선사항은 이슈/PR로 남겨주세요.
 
-## 참고 자료
+---
+
+## 🔗 참고 자료
 
 - [AWS 공식 문서](https://docs.aws.amazon.com/)
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
